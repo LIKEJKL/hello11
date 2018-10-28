@@ -16,6 +16,10 @@ public class world {
 
         int b= 111;
         int c= 111;
+
+
+
+        int bbb = 12;
     }
 
 
