@@ -11,10 +11,11 @@ public class world {
         System.out.println("hahahhahah");
         System.out.println("hahahhahah");
 
-
         int a = 0;
 
 
+        int b= 111;
+        int c= 111;
     }
 
 
